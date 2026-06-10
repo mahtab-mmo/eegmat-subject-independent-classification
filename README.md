@@ -1,5 +1,3 @@
-# eegmat-subject-independent-classification
-Subject-independent EEG classification of mental arithmetic using CSP, FBCSP, and Riemannian methods
 # EEGMAT Subject-Independent EEG Classification
 
 This repository contains the code used in the study:
